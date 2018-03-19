@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="fil.coo.donjon.tools" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/tools" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="130" x="316" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="2" language="java" name="fil.coo.donjon.item.Item" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="166" x="2181" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="fil.coo.donjon.item.OneArmedBandit" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/OneArmedBandit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="166" x="2181" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="4" language="java" name="fil.coo.donjon.item" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="127" x="486" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="5" language="java" name="fil.coo.donjon.room.Room" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/room/Room.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="205" x="2427" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="fil.coo.donjon.character.Player" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/character/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="203" x="1936" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="7" language="java" name="fil.coo.donjon" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="653" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="8" language="java" name="fil.coo.donjon.action.AttackAction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/AttackAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="153" x="665" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="fil.coo.donjon.room.ExitRoom" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/room/ExitRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="100" x="2427" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="fil.coo.donjon.DonjonGame" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/DonjonGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="197" x="1936" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="fil.coo.donjon.action.ChangeRoomAction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/ChangeRoomAction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="153" x="858" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="fil.coo.donjon.item.Gold" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/Gold.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="166" x="2221" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="fil.coo.donjon.character.DungeonCharacter" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/character/DungeonCharacter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="194" x="2427" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="fil.coo.donjon.tools.ScannerInt" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/tools/ScannerInt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="794" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="fil.coo.donjon.action" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="137" x="947" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="fil.coo.donjon.item.Potion" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/Potion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="168" x="457" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="fil.coo.donjon.tools.WrongDirectionException" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/tools/WrongDirectionException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="183" x="1124" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="fil.coo.donjon.action.RestAction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/RestAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="153" x="1051" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="fil.coo.donjon.action.LookAction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/LookAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="153" x="1244" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="fil.coo.donjon.character.Monster" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/character/Monster.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="142" x="2567" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="fil.coo.donjon.tools.RandomGenerator" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/tools/RandomGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="266" x="1630" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="fil.coo.donjon.action.UseAction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/UseAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="153" x="1437" y="530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="23" language="java" name="fil.coo.donjon.character" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/character" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="158" x="1347" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="24" language="java" name="fil.coo.donjon.action.Action" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/action/Action.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="153" x="1199" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="25" language="java" name="fil.coo.donjon.room" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/room" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="132" x="1545" y="103"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="fil.coo.donjon.item.LifePotion" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/LifePotion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="166" x="354" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="27" language="java" name="fil.coo.donjon.room.Direction" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/room/Direction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="179" x="1717" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="28" language="java" name="fil.coo.donjon.item.StrengthPotion" project="COO-Projet_Donjon" 
+    file="/COO-Projet_Donjon/src/main/java/fil/coo/donjon/item/StrengthPotion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="166" x="560" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="30">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="31" name="allPossibleActions"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="34" name="price"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="36">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="38">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="39" name="gold"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <bendpoint x="2169" y="530"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="43">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="44" name="neighbours"/>      
+      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="46">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="49">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="50" name="allItems"/>      
+      <multiplicity id="51" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <bendpoint x="2190" y="530"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="53" name="sellingItems"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="56">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="60" name="randomGenerator"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <bendpoint x="2672" y="530"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="63">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="64" name="room"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="67" name="allMonsters"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="70" name="player"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
